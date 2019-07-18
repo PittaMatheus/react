@@ -1,0 +1,8 @@
+Ativar servidor local
+php -S localhost:8000
+
+// instalando express
+npm install --save express
+
+// axios
+npm install --save.dev axios

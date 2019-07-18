@@ -1,0 +1,17 @@
+- JSX
+	
+
+
+
+PROPS
+	dados transitórios entre componentes
+
+	// Método que sempre será chamado quando um componente for construido
+	contructor()
+	// Contexto do componente recuperado pelo this. 
+	// props recupera o objeto
+	this.props = {} 
+
+
+estados
+
